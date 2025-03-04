@@ -90,7 +90,6 @@ app.get('/', (req, res) => {
       <div class="container">
         <h1>Welcome to the Modern Express Server</h1>
         <p>Experience the elegance of modern web design with a blue theme.</p>
-        <button class="button" onclick="window.location.href='/about'">Learn More</button>
       </div>
     </body>
     </html>
